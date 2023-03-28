@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-
 public class SalesAnalysis {
     private static final String[] PRODUCTS = {"Tea", "Coffee", "GreenTea", "LemonTea", "Soda", "Limca"};
     private static final double[] SALES_2021 = {100.0, 129.0, 140.0, 167.0, 267.0, 873.0};
